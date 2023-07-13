@@ -1,0 +1,65 @@
+* {
+    border: 1px solid red;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.datos {
+    display: flex;
+}
+
+.foto {
+    width: 30%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.nombre {
+    width: 70%;
+}
+
+.perfil {
+    width: 200px;
+}
+
+/* contenido */
+
+.contenido {
+    display: flex;
+}
+
+/* izquierda */
+
+.izq {
+    width: 30%;
+}
+
+/* derecha */
+
+.der {
+    width: 70%;
+}
+
+/* otros */
+
+.otros {
+    display: flex;
+}
+
+/* tecnologias */
+
+.tecnologias {
+    width: 50%;
+}
+
+/* skills */
+
+.skills {
+    width: 50%;
+}
